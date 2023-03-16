@@ -1,8 +1,8 @@
-particle dust 1 1 1 2.0 ^5.510 ^-8.345 ^60.498 0 0 0 0 1
-particle dust 1 1 1 2.0 ^4.654 ^-8.851 ^60.896 0 0 0 0 1
-particle dust 1 1 1 2.0 ^3.752 ^-9.270 ^61.294 0 0 0 0 1
-particle dust 1 1 1 2.0 ^2.812 ^-9.596 ^61.692 0 0 0 0 1
-particle dust 1 1 1 2.0 ^1.845 ^-9.828 ^62.090 0 0 0 0 1
-particle dust 1 1 1 2.0 ^0.860 ^-9.963 ^62.488 0 0 0 0 1
-particle dust 1 1 1 2.0 ^-0.134 ^-9.999 ^62.886 0 0 0 0 1
-particle dust 1 1 1 2.0 ^-1.127 ^-9.936 ^63.284 0 0 0 0 1
+particle dust 1 1 1 2.0 ^5.510 ^-8.345 ^60.498 0 0 0 0 1 force @a[distance=..128]
+particle dust 1 1 1 2.0 ^4.654 ^-8.851 ^60.896 0 0 0 0 1 force @a[distance=..128]
+particle dust 1 1 1 2.0 ^3.752 ^-9.270 ^61.294 0 0 0 0 1 force @a[distance=..128]
+particle dust 1 1 1 2.0 ^2.812 ^-9.596 ^61.692 0 0 0 0 1 force @a[distance=..128]
+particle dust 1 1 1 2.0 ^1.845 ^-9.828 ^62.090 0 0 0 0 1 force @a[distance=..128]
+particle dust 1 1 1 2.0 ^0.860 ^-9.963 ^62.488 0 0 0 0 1 force @a[distance=..128]
+particle dust 1 1 1 2.0 ^-0.134 ^-9.999 ^62.886 0 0 0 0 1 force @a[distance=..128]
+particle dust 1 1 1 2.0 ^-1.127 ^-9.936 ^63.284 0 0 0 0 1 force @a[distance=..128]
