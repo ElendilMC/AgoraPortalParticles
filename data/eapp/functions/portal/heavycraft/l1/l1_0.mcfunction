@@ -1,0 +1,2 @@
+execute if score tmp.heavycraft eapp.timer matches 0..06 run function eapp:portal/heavycraft/l0/l0_0
+execute if score tmp.heavycraft eapp.timer matches 7..12 run function eapp:portal/heavycraft/l0/l0_1
