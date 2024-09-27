@@ -1,1 +1,0 @@
-particle dust 1 1 1 2 ^8.679 ^4.968 ^79.602 0 0 0 0 1 force @a[distance=..128]
